@@ -13,7 +13,7 @@ def connection():
 
 def connection2():
     conn = st.connection("postgresql", type="sql", dialect="postgresql",
-                         host="localhost",
+                         host="172.25.144.1",
                          port="5432",
                          database="migration2",
                          username="postgres",
