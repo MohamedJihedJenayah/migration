@@ -4,3 +4,5 @@ pandas==2.2.2
 scikit_learn==1.4.2
 streamlit==1.34.0
 streamlit_echarts==0.4.0
+sqlalchemy
+psycopg2-binary
